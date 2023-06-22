@@ -18,7 +18,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="jar:file:/C:/Users/mngetich/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/222.4459.24.2221.9862592/plugins/android/lib/android.jar!/images/material/icons/materialicons/check/baseline_check_24.xml" />
+                                      <entry key="url" value="file:/$USER_HOME$/AppData/Local/Android/Sdk/icons/material/materialicons/delete/baseline_delete_24.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -28,7 +28,8 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="outputName" value="check_image" />
+                            <entry key="color" value="c4bdbd" />
+                            <entry key="outputName" value="delete_image" />
                             <entry key="sourceFile" value="C:\Users\mngetich\AndroidStudioProjects\ExpenseManager" />
                           </map>
                         </option>
