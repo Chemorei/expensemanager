@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="go">#071B8D</color>
+    <color name="greenone">#175E1A</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">ExpenseManager</string>
+    <string name="default_web_client_id" translatable="false">967335499195-ovg7kni5jvhhjhv603560oep9j4echnn.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">967335499195</string>
+    <string name="google_api_key" translatable="false">AIzaSyDXpkuNh7SppYHpuKEimhG0ivbZcaMEwRw</string>
+    <string name="google_app_id" translatable="false">1:967335499195:android:303b8cb765064fbcdd609e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDXpkuNh7SppYHpuKEimhG0ivbZcaMEwRw</string>
+    <string name="google_storage_bucket" translatable="false">expensemanager-4515d.appspot.com</string>
+    <string name="project_id" translatable="false">expensemanager-4515d</string>
+    <style name="Base.Theme.ExpenseManager" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.ExpenseManager" parent="Base.Theme.ExpenseManager"/>
+</resources>

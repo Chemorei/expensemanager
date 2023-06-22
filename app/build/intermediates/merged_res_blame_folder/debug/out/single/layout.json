@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\mngetich\\.gradle\\daemon\\8.0\\com.example.expensemanager.app-mergeDebugResources-32:\\layout\\activity_add_expense.xml",
+        "source": "C:\\Users\\mngetich\\.gradle\\daemon\\8.0\\com.example.expensemanager.app-main-35:\\layout\\activity_add_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\mngetich\\.gradle\\daemon\\8.0\\com.example.expensemanager.app-mergeDebugResources-32:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\mngetich\\.gradle\\daemon\\8.0\\com.example.expensemanager.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-mergeDebugResources-32:/layout/activity_add_expense.xml",
+        "source": "com.example.expensemanager.app-main-35:/layout/activity_add_expense.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-mergeDebugResources-32:/layout/expense_row.xml",
+        "source": "com.example.expensemanager.app-main-35:/layout/expense_row.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "com.example.expensemanager.app-main-35:/layout/activity_main.xml"
+    }
+]
